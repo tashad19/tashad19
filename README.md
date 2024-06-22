@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tashadur Rahman</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tashad19&label=Traffic%20Count&color=0e75b6&style=flat" alt="tashad19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tashad19&label=Profile%20Views&color=0e75b6&style=flat" alt="tashad19" /> </p>
 
 - 🔭 I’m currently working on [Making my Portfolio website](https://tashad19.github.io/mySite/)
 
