@@ -24,7 +24,7 @@
 <a href="https://www.hackerrank.com/tashadurrahman11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tashadurrahman11" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tashad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tashad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tashadur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tashadur" height="30" width="40" /></a>
-<a href="https://discord.gg/Tash19#2195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tash19#2195" height="30" width="40" /></a>
+<a href="http://discordapp.com/users/447050922556915734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tash19#2195" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
