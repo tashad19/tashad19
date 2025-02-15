@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashad19&label=Profile%20Views&color=0e75b6&style=flat" alt="tashad19" /> </p>
 
-- 🔭 I’m currently working on [Making my Portfolio website](https://tashad19.github.io/mySite/)
+- 🔭 I’m currently working on **Making my Portfolio website**
 
-- 🌱 I’m currently learning **ReactJS and backend technologies**
+- 🌱 I’m currently learning **How to make elegant websites**
 
 - 👯 I’m looking for some help with **Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tashad19](https://github.com/tashad19)
-
-- 💬 Ask me about **HTML, CSS, JS, C, C++**
+- 💬 Ask me about **Web Devlopment**
 
 - 📫 How to reach me **tashadurrahman1924@gmail.com**
 
