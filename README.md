@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tashadur Rahman</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashad19&label=Profile%20Views&color=0e75b6&style=flat" alt="tashad19" /> </p>
 
-- 🔭 I’m currently working on **Making my Portfolio website**
+- 🔭 I’m currently working on **landing a SDE internship**
 
-- 🌱 I’m currently learning **How to make elegant websites**
+- 🌱 I’m currently learning **How to present myself better**
 
-- 👯 I’m looking for some help with **Data Structures & Algorithms**
+- 👯 I’m looking for some help with **Graph problems**
 
-- 💬 Ask me about **Web Devlopment**
+- 💬 Ask me about **Data Structures & Algorithms**
 
 - 📫 How to reach me **tashadurrahman1924@gmail.com**
 
