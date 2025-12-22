@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tashadur Rahman</h1>
-<h3 align="center">Full stack developer from India</h3>
+<h3 align="center">Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashad19&label=Profile%20Views&color=0e75b6&style=flat" alt="tashad19" /> </p>
 
-- 🔭 I’m currently working on **landing a SDE internship**
+- 🔭 I’m currently working on **open source contributions**
 
 - 🌱 I’m currently learning **How to present myself better**
 
